@@ -1,0 +1,7 @@
+filenames	T01.fpkm_tracking	T02.fpkm_tracking	T03.fpkm_tracking	T04.fpkm_tracking	T05.fpkm_tracking	T06.fpkm_tracking	T07.fpkm_tracking	T08.fpkm_tracking
+timepoints	0	5	10	15	20	30	40	55
+spike	xlRCC1
+keep_LOWDATA	FALSE
+cutoff_file	T01.fpkm_tracking
+FPKM_cutoff	2
+Rsq_cutoff	0.8
